@@ -5,5 +5,5 @@ import (
 )
 
 func BigDog(s string) string {
-	return "sage bozorgshode " + strings.ToUpper(s)
+	return "Dog get grow up " + strings.ToUpper(s)
 }
